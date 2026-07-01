@@ -1,0 +1,6 @@
+{
+  "name": "Stealth Messenger",
+  "description": "An end-to-end client-side encrypted web messenger with admin authorization and integrated Telegram channel posts parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
